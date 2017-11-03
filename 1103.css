@@ -1,0 +1,53 @@
+.panel{
+    display: inline-block;
+    width: 1875px;
+    height: 667px;
+    text-align: center;
+}
+
+.buttenLeft{
+
+}
+.buttenRight{
+
+}
+
+.one{
+    width: 375px;
+    height: 667px;
+    display: inline-block;
+    background: #ffffff;
+    color: #000000;
+}
+
+.two{
+    width: 375px;
+    height: 667px;
+    display: inline-block;
+    background: #ffffff;
+    color: #000000;
+}
+
+.three{
+    width: 375px;
+    height: 667px;
+    display: inline-block;
+    background: #ffffff;
+    color: #000000;
+}
+
+.hour{
+    width: 375px;
+    height: 667px;
+    display: inline-block;
+    background: #ffffff;
+    color: #000000;
+}
+
+.five{
+    width: 375px;
+    height: 667px;
+    display: inline-block;
+    background: #ffffff;
+    color: #000000;
+}
